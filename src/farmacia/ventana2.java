@@ -6,7 +6,7 @@ package farmacia;
 
 /**
  *
- * @author Luis Ugas
+ * @author Luis Maracay
  */
 public class ventana2 extends javax.swing.JFrame{
 

@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
  *
- * @author Luis Ugas
+ * @author Luis Maracay
  */
 public class ventana1 extends javax.swing.JFrame {
  
